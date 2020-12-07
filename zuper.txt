@@ -1,0 +1,98 @@
+ TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       880 svchost
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4 System
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4 System
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       532 wininit
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       968 svchost
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       1056 svchost
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING       620 lsass
+  TCP    0.0.0.0:49160          0.0.0.0:0              LISTENING       604 services
+  TCP    127.0.0.1:5354         0.0.0.0:0              LISTENING       1880 mDNSResponder
+  TCP    127.0.0.1:5354         127.0.0.1:49157        ESTABLISHED     1880 mDNSResponder
+  TCP    127.0.0.1:5354         127.0.0.1:49159        ESTABLISHED     1880 mDNSResponder
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING       2476 Discord
+  TCP    127.0.0.1:27015        0.0.0.0:0              LISTENING       1776 AppleMobileDeviceService
+  TCP    127.0.0.1:49157        127.0.0.1:5354         ESTABLISHED     1776 AppleMobileDeviceService
+  TCP    127.0.0.1:49159        127.0.0.1:5354         ESTABLISHED     1776 AppleMobileDeviceService
+  TCP    192.168.1.30:139       0.0.0.0:0              LISTENING       4 System
+  TCP    192.168.1.30:50338     162.159.134.234:443    ESTABLISHED     4592 Discord
+  TCP    192.168.1.30:50803     162.159.138.234:443    ESTABLISHED     4592 Discord
+  TCP    192.168.1.30:50854     162.159.130.235:443    ESTABLISHED     4592 Discord
+  TCP    192.168.1.30:50855     162.159.128.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50856     162.159.135.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50857     35.190.80.1:443        TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50858     162.159.128.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50860     162.159.128.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50863     58.251.106.185:443     TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50864     162.159.128.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50865     35.190.80.1:443        TIME_WAIT       0 Idle
+  TCP    192.168.1.30:50866     162.159.128.233:443    TIME_WAIT       0 Idle
+  TCP    192.168.1.39:139       0.0.0.0:0              LISTENING       4 System
+  TCP    [::]:135               [::]:0                 LISTENING       880 svchost
+  TCP    [::]:445               [::]:0                 LISTENING       4 System
+  TCP    [::]:5357              [::]:0                 LISTENING       4 System
+  TCP    [::]:49152             [::]:0                 LISTENING       532 wininit
+  TCP    [::]:49153             [::]:0                 LISTENING       968 svchost
+  TCP    [::]:49155             [::]:0                 LISTENING       1056 svchost
+  TCP    [::]:49156             [::]:0                 LISTENING       620 lsass
+  TCP    [::]:49160             [::]:0                 LISTENING       604 services
+  UDP    0.0.0.0:68             *:*                                    968 svchost
+  UDP    0.0.0.0:500            *:*                                    1056 svchost
+  UDP    0.0.0.0:3702           *:*                                    4040 svchost
+  UDP    0.0.0.0:3702           *:*                                    1032 svchost
+  UDP    0.0.0.0:3702           *:*                                    4040 svchost
+  UDP    0.0.0.0:3702           *:*                                    1032 svchost
+  UDP    0.0.0.0:4500           *:*                                    1056 svchost
+  UDP    0.0.0.0:5353           *:*                                    2348 chrome
+  UDP    0.0.0.0:5353           *:*                                    2348 chrome
+  UDP    0.0.0.0:5353           *:*                                    2348 chrome
+  UDP    0.0.0.0:5353           *:*                                    2348 chrome
+  UDP    0.0.0.0:5355           *:*                                    1268 svchost
+  UDP    0.0.0.0:49868          *:*                                    4040 svchost
+  UDP    0.0.0.0:50422          *:*                                    2476 Discord
+  UDP    0.0.0.0:50894          *:*                                    3784 AppMarket
+  UDP    0.0.0.0:51515          *:*                                    1032 svchost
+  UDP    0.0.0.0:58346          *:*                                    1880 mDNSResponder
+  UDP    0.0.0.0:59256          *:*                                    1032 svchost
+  UDP    0.0.0.0:62355          *:*                                    2476 Discord
+  UDP    127.0.0.1:1900         *:*                                    4040 svchost
+  UDP    127.0.0.1:53220        *:*                                    4040 svchost
+  UDP    127.0.0.1:58344        *:*                                    1776 AppleMobileDeviceService
+  UDP    127.0.0.1:58345        *:*                                    1776 AppleMobileDeviceService
+  UDP    192.168.1.30:137       *:*                                    4 System
+  UDP    192.168.1.30:138       *:*                                    4 System
+  UDP    192.168.1.30:1900      *:*                                    4040 svchost
+  UDP    192.168.1.30:2177      *:*                                    4040 svchost
+  UDP    192.168.1.30:5353      *:*                                    1880 mDNSResponder
+  UDP    192.168.1.30:53219     *:*                                    4040 svchost
+  UDP    192.168.1.39:137       *:*                                    4 System
+  UDP    192.168.1.39:138       *:*                                    4 System
+  UDP    192.168.1.39:1900      *:*                                    4040 svchost
+  UDP    192.168.1.39:2177      *:*                                    4040 svchost
+  UDP    192.168.1.39:5353      *:*                                    1880 mDNSResponder
+  UDP    192.168.1.39:53218     *:*                                    4040 svchost
+  UDP    [::]:500               *:*                                    1056 svchost
+  UDP    [::]:3702              *:*                                    4040 svchost
+  UDP    [::]:3702              *:*                                    1032 svchost
+  UDP    [::]:3702              *:*                                    1032 svchost
+  UDP    [::]:3702              *:*                                    4040 svchost
+  UDP    [::]:4500              *:*                                    1056 svchost
+  UDP    [::]:5353              *:*                                    2348 chrome
+  UDP    [::]:5353              *:*                                    2348 chrome
+  UDP    [::]:5355              *:*                                    1268 svchost
+  UDP    [::]:49869             *:*                                    4040 svchost
+  UDP    [::]:51516             *:*                                    1032 svchost
+  UDP    [::]:58347             *:*                                    1880 mDNSResponder
+  UDP    [::]:59257             *:*                                    1032 svchost
+  UDP    [::1]:1900             *:*                                    4040 svchost
+  UDP    [::1]:5353             *:*                                    1880 mDNSResponder
+  UDP    [::1]:53217            *:*                                    4040 svchost
+  UDP    [fd90:671c:2502:1300:5:8c27:fda:a33c]:2177  *:*                                    4040 svchost
+  UDP    [fd90:671c:2502:1300:48d3:e492:bdd7:51b0]:2177  *:*                                    4040 svchost
+  UDP    [fd90:671c:2502:1300:6504:ddc3:a083:d3d3]:2177  *:*                                    4040 svchost
+  UDP    [fd90:671c:2502:1300:f853:9a2f:1a7e:10e]:2177  *:*                                    4040 svchost
+  UDP    [fe80::5:8c27:fda:a33c%20]:1900  *:*                                    4040 svchost
+  UDP    [fe80::5:8c27:fda:a33c%20]:2177  *:*                                    4040 svchost
+  UDP    [fe80::5:8c27:fda:a33c%20]:53215  *:*                                    4040 svchost
+  UDP    [fe80::48d3:e492:bdd7:51b0%13]:1900  *:*                                    4040 svchost
+  UDP    [fe80::48d3:e492:bdd7:51b0%13]:2177  *:*                                    4040 svchost
+  UDP    [fe80::48d3:e492:bdd7:51b0%13]:53216  *:*                                    4040 svchost
